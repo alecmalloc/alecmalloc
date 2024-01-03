@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alecmalloc
 - 👀 I’m interested in all things software.
-- 🌱 I’m currently learning C, Python and Javascript.
+- 🌱 I’m currently learning C, C++, Python and Javascript.
 
 <!---
 alecmalloc/alecmalloc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
