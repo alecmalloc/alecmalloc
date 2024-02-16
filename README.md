@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alecmalloc
+- 👋 Hi, I’m Alec.
 - 👀 I’m interested in all things software.
 - 🌱 I’m currently learning C, C++, Python and Typescript.
 
