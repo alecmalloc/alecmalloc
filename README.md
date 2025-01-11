@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alec
-- 🌱 I’m currently learning C, C++, Go, and Typescript
+- 🌱 I’m currently learning C++, Go, and Typescript
 
 <!---
 alecmalloc/alecmalloc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
